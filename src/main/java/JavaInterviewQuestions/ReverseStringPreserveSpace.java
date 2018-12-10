@@ -23,7 +23,7 @@ public class ReverseStringPreserveSpace {
                 // Ignore spaces in input string 
                 if (inputArray[i] != ' ') {  
                                   
-                    // ignore spaces in result. 
+                    // Ignore spaces in result. 
                     if (result[j] == ' ') {  
                         j--;  
                     }     
